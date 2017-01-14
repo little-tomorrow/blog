@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://blog.tangxiaozhu.com/sitemap.xml
-Sitemap: http://blog.tangxiaozhu.com/baidusitemap.xml
+Sitemap: http://little-tomorrow.com/sitemap.xml
+Sitemap: http://little-tomorrow.com/baidusitemap.xml
