@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Microsoft YaHei', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -1530,6 +1530,14 @@ pre .javascript .function {
 .fancybox-close:hover {
   border: none;
 }
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #0477ab;
+  text-decoration: underline;
+}
 .sidebar {
   position: fixed;
   right: 0;
@@ -1687,7 +1695,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f78eff;
+  background: #9314dd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2191,6 +2199,29 @@ a.search-result {
   top: 42%;
   color: #ccc;
 }
+#local-search-input {
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 97%;
+  font-size: 18px;
+}
+.popup .fa-search {
+  padding: 8px 0;
+}
+.search-keyword {
+  border-bottom: 1px dashed #f00;
+  font-size: 14px;
+  font-weight: bold;
+  color: #f00;
+}
+p.search-result {
+  border-bottom: 1px dashed #ccc;
+  padding: 5px 0 2px 0;
+}
+#local-search-result {
+  height: 88%;
+  overflow: auto;
+}
 .site-uv,
 .site-pv,
 .page-pv {
@@ -2433,6 +2464,14 @@ a.search-result {
 }
 .page-post-detail .comments {
   overflow: hidden;
+}
+.content li a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.content li a:hover {
+  color: #0477ab;
+  text-decoration: underline;
 }
 h1,
 h2,
