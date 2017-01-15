@@ -1695,7 +1695,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9314dd;
+  background: #24010f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2472,6 +2472,9 @@ p.search-result {
 .content li a:hover {
   color: #0477ab;
   text-decoration: underline;
+}
+.content li {
+  list-style-type: disc;
 }
 h1,
 h2,
