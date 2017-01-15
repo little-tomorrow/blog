@@ -1614,6 +1614,7 @@ pre .javascript .function {
   max-width: 96px;
   height: auto;
   border: 2px solid #333;
+  border-radius: 50%;
 }
 .site-author-name {
   margin: 5px 0 0;
@@ -1695,7 +1696,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffc687;
+  background: #e3edab;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2473,7 +2474,7 @@ p.search-result {
   color: #0477ab;
   text-decoration: underline;
 }
-.content li {
+.content ul {
   list-style-type: disc;
 }
 h1,
