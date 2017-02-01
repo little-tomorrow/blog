@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://little-tomorrow.com/sitemap.xml
-Sitemap: http://little-tomorrow.com/baidusitemap.xml
+Sitemap: https://www.little-tomorrow.com/sitemap.xml
+Sitemap: https://www.little-tomorrow.com/baidusitemap.xml
